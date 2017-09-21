@@ -8,12 +8,6 @@ Mere anarchy is loosed upon the world,
 
 The blood-dimmed tide is loosed, and everywhere
 
-The blood-dimmed tide is loosed, and everywhere
-
-<<<<<<< HEAD
-This is the part I want to revert
-
-THis is the part I want to keep
-=======
 The ceremony of innocence is drowned;
->>>>>>> parent of 2fd8ad7... revert this
+
+starting over
